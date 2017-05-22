@@ -19,6 +19,10 @@ allprojects {
     repositories {
         jcenter()
         mavenCentral()
+
+        maven {
+            url 'https://dl.bintray.com/hpdx/maven/'
+        }
     }
 }
 
