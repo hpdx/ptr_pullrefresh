@@ -1,0 +1,6 @@
+<resources>
+
+    <!-- 下拉刷新动画每帧持续的时长 -->
+    <integer name="pull_refresh_animation_duration">120</integer>
+
+</resources>
